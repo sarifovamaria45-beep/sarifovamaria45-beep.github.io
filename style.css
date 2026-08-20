@@ -31,7 +31,8 @@ p{
     padding: 3%;
 }
 .help_meneger{
-    border-radius: 50px;
+    border-rad
+        ius: 50px;
     border: none;
     font-size: 200%;
     background-color: rgb(151, 149, 149);
@@ -56,4 +57,8 @@ p{
 .meneger_buttom{
     margin:3%;
     padding:3%;
+}
+.help_meneger button{
+    displai: inline;
+    text-aligen: center;
 }
