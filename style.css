@@ -31,13 +31,12 @@ p{
     padding: 3%;
 }
 .help_meneger{
-    border-rad
-        ius: 50px;
+    border-radius: 50px;
     border: none;
     font-size: 200%;
     background-color: rgb(151, 149, 149);
     padding: 3%;
-    margin: 3% 35% ;
+    /*margin: 3% 35% ;*/
 }
 .help_meneger a{
     text-decoration: none;
